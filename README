@@ -1,3 +1,13 @@
+原地址：http://dembol.org/blog/mod_cband/
+
+安装：
+
+$ cd mod-cband 
+$./configure –with-apxs=/apache目录/bin/apxs 
+$ make
+$ make install
+
+
 What is this
 ============
 
